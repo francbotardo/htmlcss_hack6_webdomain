@@ -1,0 +1,78 @@
+body{
+    background-color: #290059;
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 80px;
+    color: #fff;
+    font-family: Montserrat;
+    font-weight: 600;
+}
+
+header p{
+    text-align: center;
+    color: #fff;
+    font-family: Montserrat;
+    margin: 20px 0;
+    font-size: 40px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+section{
+    width: 350px;
+    height: 500px;
+    background-color: #fff;
+    margin:20px;
+    border-radius: 20px;
+    position: relative;
+}
+
+h2{
+    font-family: Montserrat;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    color: #290059;
+    margin: 20px 0;
+}
+
+hr{
+    width: 70%;
+    border: 1px solid  #290059;
+    margin-bottom: 40px;
+}
+
+li{
+    font-family: 'Montserrat Alternates';
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    margin: 30px 0;
+}
+
+div{
+    width: 70%;
+    height: 40px;
+    background-color: #004AAD;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: -20px;
+    left: 35px;
+}
+
+span{
+    font-family: Montserrat;
+    font-size: 30px;   
+    margin:0 10px;
+    color:#fff;
+}
